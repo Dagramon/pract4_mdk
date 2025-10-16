@@ -1,1 +1,10 @@
-
+h1
+{
+    text-align: center;
+    color: blueviolet;
+}
+.maintext
+{
+    font-family: sans-serif;
+    color: chocolate;
+}
